@@ -8,3 +8,5 @@ Easily Check Valorant Accounts For Rank and Skins!
 ✔ - Username:Pass Combo List Ready
 
 ✔ - Safe To Use
+
+✔ - Guide To Hitting
