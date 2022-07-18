@@ -1,0 +1,5 @@
+requests
+tkinter
+cryptocode
+colorama
+urllib3
