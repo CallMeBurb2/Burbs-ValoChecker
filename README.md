@@ -10,3 +10,7 @@ Easily Check Valorant Accounts For Rank and Skins!
 ✔ - Safe To Use
 
 ✔ - Guide To Hitting
+
+TEMPORARILY DOWN...
+
+UPDATING SOON!
